@@ -2,7 +2,7 @@
 
 This is a translation and subtitling portfolio website created and maintained by Dorina Mihai. It is based on Bootstrap and uses a mix of HTML 5, CSS 3, Font Awesome, Javascript, JQuery, Popper and PHP. I also used Node.js and Git.
 
-![Main page](http://www.translation.dorinamihai.tech/img/main.png)
+![Main Page](http://translator.dorinamihai.tech/img/main.png)
 
 # Prerequisites 
 
