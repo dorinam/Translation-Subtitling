@@ -4,6 +4,7 @@ This is a translation and subtitling portfolio website created and maintained by
 
 ![Main Page](http://translator.dorinamihai.tech/img/main.png)
 
+
 # Prerequisites 
 
 ## This is what you need to do:
